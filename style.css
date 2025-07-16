@@ -1,2 +1,12 @@
-body { margin: 0; font-family: Arial, sans-serif; }
-#map { height: 90vh; width: 100%; }
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+#map {
+  height: 90vh;
+  width: 100%;
+}
+h2 {
+  margin: 10px;
+  text-align: center;
+}
